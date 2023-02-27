@@ -1,0 +1,66 @@
+h1
+{
+  color: black;
+  text-align: center;
+  background-color : #009999;
+  font-family: comic sans ms;
+  font-style: italic;
+  }
+ h2
+ {
+   color: black;
+  text-align: center;
+  background-color : #CCFFcc;
+  font-family: Brush Script MT;
+  font-size: 130%;
+  }
+  h6
+  {
+     text-align: left;
+     font-family: comic sans ms;
+     font-size: 100%;
+  }
+  h3
+  {
+    text-align: center;
+  }
+  p
+  {
+    text-align: center;
+  }
+  body 
+  {
+    background-color: #ccffff;
+  }
+  h5
+  {
+    text-align: left;
+  }
+
+#carte 
+{
+  width: 800px;
+  margin:0 auto;
+  background-color:white;
+  text-align:r=left;
+  align-content: center;
+}
+
+ul li 
+{
+  list-style: none;
+}
+
+<style>
+.bouton { 
+background-image: url('https://www.amazon.fr'); 
+background-size: cover; 
+width: 100px; 
+height: 50px; 
+font-size: 3rem;
+cursor: pointer;
+}
+</style> 
+<button type="submit" class="bouton">Bouton</button>
+
+
